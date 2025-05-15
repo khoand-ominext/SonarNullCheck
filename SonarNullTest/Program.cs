@@ -17,5 +17,5 @@
 
 public class InspectType
 {
-    public string SomeProperty { get; set; } = "Test property";
+    public string SomeProperty { get; set; } = "Test property inspectType";
 }
